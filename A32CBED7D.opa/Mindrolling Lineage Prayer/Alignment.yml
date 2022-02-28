@@ -1,0 +1,25 @@
+segment_sources:
+  P2736882C:
+    type: origin_type
+    relation: translation
+    language: en
+  PA12E143F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  692d516561334726ad1c9fc48599519e:
+    P2736882C: 7393f3f8c19f46a786cb9393ea9582c8
+    PA12E143F: 45a7524837c443f09eada3eb74995231
+  82bd2770128a4dd895540b6f9a7b84ba:
+    P2736882C: deec86a588974411923da9b1626e9d48
+    PA12E143F: 1c2c8341a404452c8275a02efeaa172e
+  f7f7107b81174e178931ea1afa281b39:
+    P2736882C: e67d2efe0f19458598cee64caf69f540
+    PA12E143F: 05b20fea37774d2a9258b1f74f0cfa00
+  049d7c7624a84212bcfd1f60267113dd:
+    P2736882C: 59ffbf339cfa40d18fe8af603b671173
+    PA12E143F: 8d8f58bb692f42419ac4d5ca3b2646fb
+  fc22fdb875e84f438d88c11e0f980d32:
+    P2736882C: e1a84c87ec21444ab14fdac1ba4b6fe2
+    PA12E143F: 44bfc10a1fce4338b40d0618ee545c34
